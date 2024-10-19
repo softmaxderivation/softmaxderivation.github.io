@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: /2025/sitemap.xml
+Sitemap: https://softmaxderivation.github.io/sitemap.xml
